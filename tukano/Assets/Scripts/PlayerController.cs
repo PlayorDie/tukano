@@ -30,7 +30,6 @@ public class PlayerController : MonoBehaviour {
 			ponto++;
 			//other.gameObject.SetActive(false);
 			Destroy(other.gameObject);
-			placar.ToString = TextEditor
 		}
 	}
 }
